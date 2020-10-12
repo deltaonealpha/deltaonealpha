@@ -9,11 +9,7 @@
 # About Me:
 A mad scientist who writes software, makes robots and is a self proclaimed space nerd.
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=deltaonealpha&show_icons=true&theme=tokyonight/>
-  </a>
- </p>
+
 
 # Contact Me :
 
