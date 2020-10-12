@@ -1,7 +1,7 @@
 # Hey there!
 
 <div align="center">
-<img hight="50" width="125" alt="GIF" align="center" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/208593.gif">
+<img hight="100" width="250" alt="GIF" align="center" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/208593.gif">
 </div>
 </br>
 </br>
