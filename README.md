@@ -1,7 +1,7 @@
 # Hey there!
 
 <div align="center">
-<img hight="200" width="500" alt="GIF" align="center" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/208593.gif">
+<img hight="50" width="125" alt="GIF" align="center" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/208593.gif">
 </div>
 </br>
 </br>
@@ -27,7 +27,7 @@ A mad scientist who writes software, makes robots and is a self proclaimed space
 
 <p>
  </br>
-<img hight="270" width="380" align="right" alt="GIF" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/93195.gif">
+<img hight="90" width="127" align="right" alt="GIF" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/93195.gif">
 
 Reach out! https://t.me/deltaonealpha
 </a>
