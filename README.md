@@ -9,7 +9,7 @@
 # About Me:
 A mad scientist who writes software, makes robots and is a self proclaimed space nerd.
 
-
+![deltaonealpha's github stats](https://github-readme-stats.vercel.app/api?username=deltaonealpha&show_icons=true&theme=tokyonight)
 
 # Contact Me :
 
@@ -17,10 +17,7 @@ A mad scientist who writes software, makes robots and is a self proclaimed space
  </br>
 <img hight="270" width="380" align="right" alt="GIF" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/93195.gif">
 
-Reach out to me! 
-
-<a href="mailto:balaji.pranav@outlook.in">
- <img align="left" alt="Outlook" width="20" hight="20" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" /> 
+Reach out! <a href="mailto:balaji.pranav@outlook.in"> <img align="left" alt="Outlook" width="40" height="30" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" /> 
 </a>
 </br>
 </br>
