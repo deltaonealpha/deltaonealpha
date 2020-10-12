@@ -24,10 +24,7 @@ A mad scientist who writes software, makes robots and is a self proclaimed space
 Reach out to me! 
 
 <a href="mailto:balaji.pranav@outlook.in">
- <img align="left" alt="Outlook" width="10" hight="10" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" />
-</a>
-<a href="https://t.me/deltaonealpha">
- <img align="left" alt="Telegram" width="100" hight="70" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" />
+ <img align="left" alt="Outlook" width="20" hight="20" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" /> 
 </a>
 </br>
 </br>
