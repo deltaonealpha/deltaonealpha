@@ -24,13 +24,13 @@ A mad scientist who writes software, makes robots and is a self proclaimed space
 Reach out to me! 
 
 <a href="mailto:balaji.pranav@outlook.in">
- <img align="left" alt="Outlook" width="100" hight="70" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" />
+ <img align="left" alt="Outlook" width="10" hight="10" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" />
 </a>
-<script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="//telegram.im/widget-button/index.php?id=@deltaonealpha";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
-<a href="https://t.me/deltaonealpha" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:19px;width:199px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:8px;" title=""><i></i> Contact Me</a>
-</br>
-</br>
-</br>
+<a href="https://t.me/deltaonealpha">
+ <img align="left" alt="Telegram" width="100" hight="70" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/download.jpg" />
 </a>
+</br>
+</br>
+</br>
  </p>
  
