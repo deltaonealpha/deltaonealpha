@@ -7,7 +7,10 @@
 </br>
 
 # About Me:
-A mad scientist who writes software, makes robots and is a self proclaimed space nerd.
+I make solutions to combat modern daily issues. 
+Founder of degenswrite.com 
+
+Delhi, India 🇮🇳
 
 ![deltaonealpha's github stats](https://github-readme-stats.vercel.app/api?username=deltaonealpha&show_icons=true&theme=tokyonight)
 
