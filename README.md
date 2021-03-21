@@ -7,8 +7,8 @@
 </br>
 
 # About Me:
-I make solutions to combat modern daily issues. 
-Founder of degenswrite.com 
+Developer and space enthusiast
+Building a reading platform for the community | http://degenswrite.com
 
 ![deltaonealpha's github stats](https://github-readme-stats.vercel.app/api?username=deltaonealpha&show_icons=true&theme=tokyonight)
 
