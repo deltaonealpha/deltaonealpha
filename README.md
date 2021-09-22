@@ -1,9 +1,4 @@
 # Hey there!
-
-<div align="center">
-<img hight="100" width="250" alt="GIF" align="center" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/208593.gif">
-</div>
-</br>
 </br>
 
 # About Me:
@@ -28,7 +23,6 @@ Building a reading platform for the community | http://degenswrite.com
 
 <p>
  </br>
-<img hight="270" width="380" align="right" alt="GIF" src="https://github.com/deltaonealpha/deltaonealpha/blob/main/93195.gif">
 
 Reach out! https://t.me/deltaonealpha
 </a>
